@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter notebook that explores how colour images are represented in Python using the Numpy and Matplotlib libraries. This can be an excellent starting point for anyone interested in image processing, computer vision, or just curious about how digital images work!
 
-![Image](https://www.example.com/link-to-your-image.jpg)
+![Image](readme_image.png)
 
 ## What Will You Learn? 🧠💡
 
